@@ -16,7 +16,7 @@
   .container {
     flex-direction: row;
     border-radius: 0.8rem;
-    width: 80%;
+    width: 45rem;
     margin: 5rem auto;
   }
 }
@@ -26,6 +26,7 @@
 }
 .img-wrap img {
   max-width: 100%;
+  width: 100%;
   height: auto;
   border-radius: 0.8rem 0.8rem 0 0;
 }
