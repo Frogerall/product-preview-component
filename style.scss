@@ -8,15 +8,25 @@
  margin: 1rem;
  display: flex;
  flex-direction: column;
- gap: 1.5rem;
  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.336);
  border-radius: 0.8rem 0.8rem 0 0;
+ @media (min-width: 600px) {
+  flex-direction: row;
+  border-radius: 0.8rem;
+  width: 80%;
+  margin: 5rem auto;
+ }
 }
 .img-wrap {
+ flex: 0 1 50%;
  img {
   max-width: 100%;
   height: auto;
   border-radius: 0.8rem 0.8rem 0 0;
+  @media (min-width: 600px) {
+   border-radius: 0.8rem 0 0 0.8rem;
+   height: 100%;
+  }
  }
 }
 .body-text {
@@ -26,6 +36,9 @@
  padding: 1.5rem;
  gap: 1rem;
  margin: 0 auto;
+ @media (min-width: 600px) {
+  flex: 1 1 50%;
+ }
 }
 .body-text :first-child {
  letter-spacing: 5px;
