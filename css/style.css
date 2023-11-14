@@ -84,4 +84,8 @@
   color: white;
   padding: 1rem;
   border-radius: 8px;
+  transition: all 0.3s ease-in-out;
+}
+.body-text a:hover {
+  opacity: 0.8;
 }
