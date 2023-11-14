@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Frogerall/product-preview-component)
-- Live Site URL: [Add live site URL here](https://frogerall.github.io/product-preview-component/)
+- Solution URL: [https://github.com/Frogerall/product-preview-component](https://github.com/Frogerall/product-preview-component)
+- Live Site URL: [https://frogerall.github.io/product-preview-component/](https://frogerall.github.io/product-preview-component/)
 
 ## My process
 
@@ -65,7 +65,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Adrian Salitico](http://salproj.tech)
 - Frontend Mentor - [@frogerall](https://www.frontendmentor.io/profile/frogerall)
-- Twitter - [@yourusername](https://www.twitter.com/saliticoadrian)
+- Twitter - [@saliticoadrian](https://www.twitter.com/saliticoadrian)
 
 ## Acknowledgments
 
